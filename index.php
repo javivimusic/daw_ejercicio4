@@ -343,6 +343,7 @@ and open the template in the editor.
             echo "</div>";
             echo "</div>";
             echo "<h2>Esto es una nueva aportación al proyecto</h2>";
+            echo "<h2>Añado otra linea al archivo</h2>";
         }
         ?>
     </body>
